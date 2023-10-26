@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvmhaskar
 - 👀 I’m interested in robotics research
-- 🌱 I’m currently learning Linear circuits and Mechanical Behavior/Materials
+- 🌱 I’m currently working with exoskeleton and Turtlebot3 controllers
 - 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me ... mhaskaryash901@gmail.com
 
